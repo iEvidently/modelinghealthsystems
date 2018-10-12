@@ -9,22 +9,30 @@ This book aims to empower readers to learn and apply simulation modeling techniq
 
 ## Table of Contents
 
-[Introduction](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/html/Introduction.html)
-Chapter 1: Fundamentals
+[Introduction](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/00_Basu_Introduction.pdf)
+
+[Chapter 1:]() Fundamentals
+
 Chapter 2: Cost-benefit and cost-effectiveness analysis
+
 Chapter 3: Markov models
+
 Chapter 4: Modeling in *R*
+
 Chapter 5: Modeling infectious disease epidemics
+
 Chapter 6: Complexities of epidemic modeling
+
 Chapter 7: Practicing techniques in context 1: Famine management
+
 Chapter 8: Modeling non-communicable diseases
+
 Chapter 9: Machine learning
+
 Chapter 10: Practicing techniques in context 2: Healthcare system redesign
+
 Chapter 11: Modeling guidelines
+
 Acknowledgements
+
 References
-
-
-
-
-
