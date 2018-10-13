@@ -1,40 +1,13 @@
-# Modeling Public Health and Healthcare Systems
-**Second Edition**
-by Sanjay Basu
-(c) Oxford University Press, 2018
+#Modeling Public Health and Healthcare Systems
 
-This book aims to empower readers to learn and apply simulation modeling techniques to improve public health programs and healthcare systems. Readers will engage in in-depth study of public health and healthcare optimization strategies from a "systems science" perspective, which involves the use of common health economics and modeling techniques such as cost-benefit and cost-effectiveness analysis, Markov modeling, compartmental models of infectious disease, microsimulation, and machine learning. Chapters focus on applying these techniques to classical public health dilemmas such as how to choose whether or not to hire new staff or change a clinic’s workflow, select a given disease screening approach, or determine the most effective population-level disease control strategy. The methods taught in this book focus on techniques that address common questions not easily answered by standard medical or public health approaches such as randomized trials or cohort studies. The book is organized around solving real-world problems, typically derived from actual experiences by staff at non-governmental organizations, departments of public health, and international health agencies. In addition to teaching the theory behind modeling methods, the book aims to confer practical skills to readers, through practice in model implementation using the free software *R*.
+This site links to code used in the book: Basu, Sanjay. Modeling Public Health and Healthcare Systems. New York: Oxford University Press, 2017.
 
-### Note: All materials here are in draft form and subject to editing and review.
+The book aims to empower readers to learn and apply engineering, operations research and modeling techniques to improve public health programs and healthcare systems. Readers will engage in in-depth study of disease detection and control strategies from a "systems science" perspective, which involves the use of common engineering, operations research, and mathematical modeling techniques such as optimization, queuing theory, Markov and Kermack-McKendrick models, and microsimulation. Chapters focus on applying these techniques to classical public health dilemmas such as how to optimize screening programs, reduce waiting times for healthcare services, solve resource allocation problems, and compare macro-scale disease control strategies that cannot be easily evaluated through standard public health methods such as randomized trials or cohort studies. The book is organized around solving real-world problems, typically derived from actual experiences by staff at non-governmental organizations, departments of public health, and international health agencies. In addition to teaching the theory behind modeling methods, the book aims to confer practical skills to readers, through practice in model implementation, using the statistical software R.
 
+All materials are subject to copyright, (c) Oxford University Press, 2017.
 
-## Table of Contents
-[Link to all *R* Code](https://github.com/sanjaybasu/modelinghealthsystems/tree/master/secondedition/Rcode)
+#Corrections to the first edition:
 
-[Introduction](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/00_Basu_Introduction.pdf)
+There is a typo in Chapter 10. Please use the version of chapter 10 uploaded above, which has an update of section 10.2 and a new version of Figures 10.6 and 10.8
 
-[Chapter 1:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/01_Basu.pdf) Fundamentals
-
-[Chapter 2:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/02_Basu.pdf) Cost-benefit and cost-effectiveness analysis
-
-[Chapter 3:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/03_Basu.pdf) Markov models
-
-[Chapter 4:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/04_Basu.pdf) Modeling in *R*
-
-[Chapter 5:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/05_Basu.pdf) Modeling infectious disease epidemics
-
-[Chapter 6:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/06_Basu.pdf) Complexities of epidemic modeling
-
-[Chapter 7:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/07_Basu.pdf) Practicing techniques in context 1: Famine management
-
-[Chapter 8:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/08_Basu.pdf) Modeling non-communicable diseases
-
-[Chapter 9:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/09_Basu.pdf) Machine learning
-
-[Chapter 10:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/10_Basu.pdf) Practicing techniques in context 2: Healthcare system redesign
-
-[Chapter 11:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/11_Basu.pdf) Modeling guidelines
-
-[Acknowledgements](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/00_Basu_Acknowledgements.pdf)
-
-[References](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/00_Basu_References.pdf)
+There is a reference missing from Chapter 5. The reference list includes: Sohler Everingham, Susan S., C. Peter Rydell, and Jonathan P. Caulkins, Cocaine consumption in the United States : estimating past trends and future scenarios. Santa Monica, CA: RAND Corporation, 1996. https://www.rand.org/pubs/reprints/RP545.html.
