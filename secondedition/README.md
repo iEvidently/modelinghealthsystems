@@ -12,28 +12,28 @@ This book aims to empower readers to learn and apply simulation modeling techniq
 
 [Introduction](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/00_Basu_Introduction.pdf)
 
-[Chapter 1:]() Fundamentals
+[Chapter 1:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/01_Basu.pdf) Fundamentals
 
-Chapter 2: Cost-benefit and cost-effectiveness analysis
+[Chapter 2:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/02_Basu.pdf) Cost-benefit and cost-effectiveness analysis
 
-Chapter 3: Markov models
+[Chapter 3:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/03_Basu.pdf) Markov models
 
-Chapter 4: Modeling in *R*
+[Chapter 4:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/04_Basu.pdf) Modeling in *R*
 
-Chapter 5: Modeling infectious disease epidemics
+[Chapter 5:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/05_Basu.pdf) Modeling infectious disease epidemics
 
-Chapter 6: Complexities of epidemic modeling
+[Chapter 6:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/06_Basu.pdf) Complexities of epidemic modeling
 
-Chapter 7: Practicing techniques in context 1: Famine management
+[Chapter 7:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/07_Basu.pdf) Practicing techniques in context 1: Famine management
 
-Chapter 8: Modeling non-communicable diseases
+[Chapter 8:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/08_Basu.pdf) Modeling non-communicable diseases
 
-Chapter 9: Machine learning
+[Chapter 9:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/09_Basu.pdf) Machine learning
 
-Chapter 10: Practicing techniques in context 2: Healthcare system redesign
+[Chapter 10:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/10_Basu.pdf) Practicing techniques in context 2: Healthcare system redesign
 
-Chapter 11: Modeling guidelines
+[Chapter 11:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/11_Basu.pdf) Modeling guidelines
 
-Acknowledgements
+[Acknowledgements]()
 
-References
+[References]()
