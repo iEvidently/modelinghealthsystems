@@ -1,4 +1,4 @@
-#Modeling Public Health and Healthcare Systems
+# Modeling Public Health and Healthcare Systems
 
 This site links to code used in the book: Basu, Sanjay. Modeling Public Health and Healthcare Systems. New York: Oxford University Press, 2017.
 
@@ -6,7 +6,7 @@ The book aims to empower readers to learn and apply engineering, operations rese
 
 All materials are subject to copyright, (c) Oxford University Press, 2017.
 
-#Corrections to the first edition:
+# Corrections to the first edition:
 
 There is a typo in Chapter 10. Please use the version of chapter 10 uploaded above, which has an update of section 10.2 and a new version of Figures 10.6 and 10.8
 
