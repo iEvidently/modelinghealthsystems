@@ -34,6 +34,6 @@ This book aims to empower readers to learn and apply simulation modeling techniq
 
 [Chapter 11:](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/11_Basu.pdf) Modeling guidelines
 
-[Acknowledgements]()
+[Acknowledgements](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/00_Basu_Acknowledgements.pdf)
 
-[References]()
+[References](https://github.com/sanjaybasu/modelinghealthsystems/blob/master/secondedition/pdfs/00_Basu_References.pdf)
